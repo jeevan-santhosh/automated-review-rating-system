@@ -5,7 +5,6 @@ Features
 - Sentiment analysis of text reviews
 - Automatic star rating prediction
 - Preprocessing of noisy text (stop words, punctuation, slang)
-- Can be integrated with web or mobile applications
 
 Tech Stack
 Language: Python
